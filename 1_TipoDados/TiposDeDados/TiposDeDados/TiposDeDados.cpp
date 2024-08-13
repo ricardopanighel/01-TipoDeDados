@@ -9,7 +9,7 @@ int main()
 	cout << "Estrutura de Dados - Fatec" << endl;
 	
 	cout << "Tipos Numericos\n";
-	cout << "===============\n";
+	cout << "Ricardo Panighel\n";
 	int i = 10;
 	short s = 18;
 	long l = 200000;
